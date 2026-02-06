@@ -1,0 +1,5 @@
+{
+  "name": "Agent Architect",
+  "description": "A developer-focused tool for intelligent code analysis and architectural visualization using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
